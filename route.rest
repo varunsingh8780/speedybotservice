@@ -1,0 +1,14 @@
+GET http://localhost:3000/speeches/
+'content-type': 'application/json'
+'Connection': 'Keep-Alive'
+
+###
+
+GET http://localhost:3000/
+
+
+###
+POST http://localhost:3000/
+{
+  "Sales Target":""
+}

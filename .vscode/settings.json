@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b1588ce8-8d94-4a1b-9e7b-e06e3e46b7a6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/speedy-bot",
+    "appService.deploySubpath": ""
+}
