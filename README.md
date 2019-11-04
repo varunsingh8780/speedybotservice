@@ -19,7 +19,6 @@ npm run devStart
 
 
 Installation of mongoldb:
-====================
 mkdir mongodb
 cd mongodb/
 brew tap mongodb/brew
@@ -29,9 +28,7 @@ brew install mongodb-community@4.2
 mongod --config /usr/local/etc/mongod.conf --fork
 ps -ef | grep mongod
 
-===========================================
 Run the service
-===========================================
 mongod --config /usr/local/etc/mongod.conf --fork
 npm run devStart
-===========================================
+
